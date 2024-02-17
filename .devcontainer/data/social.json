@@ -1,0 +1,34 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/team5401/"
+    },
+    {
+      "name": "slack",
+      "icon": "fab fa-slack",
+      "link": "https://app.slack.com/client/T1BPZEWSU/C1BQ31JLD/"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/FRO5401/"
+    },
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/team5401/"
+    },
+    {
+      "name": "x-twitter",
+      "icon": "fa-brands fa-x-twitter",
+      "link": "https://twitter.com/team5401"
+    },
+    {
+      "name": "tiktok",
+      "icon": "fa-brands fa-tiktok",
+      "link": "https://www.tiktok.com/@team5401"
+    }
+  ]
+}

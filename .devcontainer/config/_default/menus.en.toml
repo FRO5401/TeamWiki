@@ -1,0 +1,58 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Assembly"
+url = "assembly/"
+weight = 2
+
+[[main]]
+name = "Business"
+url = "business/"
+weight = 3
+
+[[main]]
+name = "CADD"
+url = "cadd/"
+weight = 4
+
+[[main]]
+name = "Manufacturing"
+url = "manufacturing/"
+weight = 5
+
+[[main]]
+name = "Programming"
+url = "programming/"
+weight = 6
+
+# footer menu
+[[footer]]
+name = "Assembly"
+url = "assembly/"
+weight = 1
+
+[[footer]]
+name = "Business"
+url = "business/"
+weight = 2
+
+[[footer]]
+name = "CADD"
+url = "cadd/"
+weight = 3
+
+[[footer]]
+name = "Manufacturing"
+url = "manufacturing/"
+weight = 4
+
+[[footer]]
+name = "Programming"
+url = "programming/"
+weight = 5
