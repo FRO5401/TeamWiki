@@ -1,6 +1,6 @@
 ---
-title: "manufacturing"
-meta_title: ""
-description: "this is meta description"
+title: "Manufacturing Page"
+meta_title: "Team 5401 - Manufacturing"
+description: "We harvest mats"
 draft: false
----
+--- 

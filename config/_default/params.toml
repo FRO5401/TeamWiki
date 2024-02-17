@@ -18,7 +18,7 @@ navbar_fixed = true
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
-mainSections = ["blog"]
+mainSections = ["assembly", "business", "cadd", "manufactuing", "programming"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "Contact"
 link = "contact"
 
 # search
@@ -46,7 +46,7 @@ link = "contact"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["blog"]
+include_sections = ["assembly", "business", "cadd", "manufactuing", "programming"]
 show_image = true
 show_description = true
 show_tags = true

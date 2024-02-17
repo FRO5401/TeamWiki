@@ -1,5 +1,6 @@
 ---
-title: "business"
-meta_title: "business"
-description: "this is meta description"
----
+title: "Business Page"
+meta_title: "Team 5401 - Business"
+description: "Creatures"
+draft: false
+--- 
