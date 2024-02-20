@@ -17,8 +17,8 @@ url = "business/"
 weight = 3
 
 [[main]]
-name = "CADD"
-url = "cadd/"
+name = "CAD"
+url = "cad/"
 weight = 4
 
 [[main]]
@@ -43,8 +43,8 @@ url = "business/"
 weight = 2
 
 [[footer]]
-name = "CADD"
-url = "cadd/"
+name = "CAD"
+url = "cad/"
 weight = 3
 
 [[footer]]

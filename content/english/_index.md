@@ -5,7 +5,7 @@ banner:
   image: "/images/banner.webp"
   button:
     enable: true
-    label: "Learn more about Team 5401"
+    label: "Browse around our Team 5401 website"
     link: "https://team5401.org"
 
 # Features
@@ -16,7 +16,7 @@ features:
     bulletpoints:
       - "Assembly"
       - "Business"
-      - "CADD"
+      - "CAD"
       - "Manufacturing"
       - "Programming"
     button:
