@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "The Fightin' Robotic Owls' Wikipedia"
-  image: "/images/banner.webp"
+  image: "/images/2022roboting.webp"
   button:
     enable: true
     label: "Browse around our Team 5401 website"
@@ -10,10 +10,10 @@ banner:
 
 # Features
 features:
-  - title: "This team 5401 wiki is designed for finding solutions you may not know how to do"
+  - title: "The Team 5401 Wikipedia is a resource to aid teams in specialized tasks."
     image: "/images/2022robot.webp"
-    image: "/images/2022robot.webp"
-    content: "With this wiki, you can use the _search_ feature to trying finding a solution to what you're doing. As this being something you find info from, this is also something you can put info in."
+    image1: "/images/2019robot.webp"
+    content: "With this wikipedia, you can utilize robotics resources to aid in robot construction and function. Use our search features to find detailed documentation, or scroll through each sub-teams' resources."
     bulletpoints:
       - "Assembly"
       - "Business"

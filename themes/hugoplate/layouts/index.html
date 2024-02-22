@@ -26,7 +26,7 @@
             {{ end }}
           </div>
           <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
+            <img src="../images/2022roboting.webp" alt="hi" width="800" height="200">
           </div>
         </div>
       </div>
@@ -44,7 +44,8 @@
               md:order-2
             {{ end }} md:col-5 mb-6">
             {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
-            {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+            <br>
+            {{ partial "image" (dict "Src" .image1 "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
           </div>
           <div
             class="{{ if not (modBool $i 2) }}
