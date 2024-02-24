@@ -34,6 +34,11 @@
       "name": "google drive",
       "icon": "fab fa-google",
       "link": "https://drive.google.com/drive/folders/169j1sGILHNzU79gYjeFwNPsO99QrxI-x"
+    },
+    {
+      "name": "youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/channel/UClc0fZNUC2I38TtQNPhoArw"
     }
   ]
 }

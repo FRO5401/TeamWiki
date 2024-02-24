@@ -2,7 +2,6 @@
 # Banner
 banner:
   title: "The Fightin' Robotic Owls' Wikipedia"
-  image: "/images/2022roboting.webp"
   button:
     enable: true
     label: "Browse around our Team 5401 website"
