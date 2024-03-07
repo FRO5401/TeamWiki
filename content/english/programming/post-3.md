@@ -10,6 +10,8 @@ categories: ["Programming"]
 draft: false
 ---
 
+**Here are resources to learn/troubleshoot coding questions you may have.**
+
 | Website      | How it Helps     
 |--------------|-----------|
 | [Java Programming with Josh](https://www.youtube.com/watch?v=eIrMbAQSU34) | Video - Java Basics from the Beginning |
