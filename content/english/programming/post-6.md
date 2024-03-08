@@ -92,3 +92,39 @@ Pre-condition:
 - Image the RoboRIO of the Robot
 - (You can plug in an ethernet cable to the radio instead if setting up a functional radio is not the preferred method)
 
+Steps:
+| Step & Direction      | Expected Result   
+|--------------|-----------|
+|Make sure the radio is on.|There should be a network with the radio name displaying in the internet access tab.|
+|Open the FRC Driver Station App on your Driver Station.|The Driver Station interface should pop up.|
+|Connect to the radio network.|The comms light on the driver station should turn green.|
+|(If you want to plug in an ethernet cable) Get an ethernet cable from the Pit.|You should have a working ethernet cable.|
+|(If you want to plug in an ethernet cable) Plug the ethernet cable into your Driver Station and the RoboRIO ethernet port or the connected radio’s ethernet port if there is one.|The comms light on the driver station should turn green.|
+
+**Plugging in a Controller**\
+Description: Plug in a controller to control the robot with the Driver Station\
+Pre-condition: Obtain a Functional Driver Station
+
+Steps:
+| Step & Direction      | Expected Result   
+|--------------|-----------|
+|Get a Xbox controller from the Pit.|You should have an Xbox controller.|
+|Open the FRC Driver Station software.|You should see the Driver Station interface.|
+|Plug the Xbox controller into your Driver Station.|The joysticks light on the Driver Station should turn green.|
+
+**Deploying Robot Code**\
+Description: Deploy the robot code to test it.\
+Pre-condition:
+- Obtain a Functional Driver Station
+- Start the Robot
+- Getting Comms
+
+Steps:
+| Step & Direction      | Expected Result   
+|--------------|-----------|
+|Open V.S. Code and open the file of your robot code(Get it from your Github if you need to).|You should have your robot code opened in V.S. Code.|
+|(Only if you need to use Github) Log into Github.|You should be in your Github account.|
+|(Only if you need to use Github) Pull up the repository of the code you want to use.|You should see your repository and the green code button.|
+|(Only if you need to use Github) Click code then Download ZIP.|The repository should be downloaded.|
+|Get rid of all errors.|You should see the Driver Station interface.|
+|Open the FRC Driver Station software.|You should see the Driver Station interface.|
