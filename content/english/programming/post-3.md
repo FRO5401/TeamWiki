@@ -1,8 +1,7 @@
 ---
 title: "General Programming Resources"
 meta_title: ""
-description: "I'm hoping this thing works"
-date: 2022-04-04T05:00:00Z
+description: ""
 image: "/images/image-placeholder.png"
 categories: ["Programming"]
 #author: "Muffin Man"
