@@ -2,7 +2,7 @@
 title: "General Programming Resources"
 meta_title: ""
 description: ""
-image: "/images/image-placeholder.png"
+image: "/images/prosources.PNG"
 categories: ["Programming"]
 #author: "Muffin Man"
 # tags: ["nextjs", "tailwind"]

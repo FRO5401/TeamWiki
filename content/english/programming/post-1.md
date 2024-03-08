@@ -2,7 +2,7 @@
 title: "Naming Conventions"
 meta_title: ""
 description: ""
-image: "/images/image-placeholder.png"
+image: "/images/namtions.PNG"
 categories: ["Programming"]
 #author: "Muffin Man"
 # tags: ["nextjs", "tailwind"]

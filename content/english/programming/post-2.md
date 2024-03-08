@@ -2,7 +2,7 @@
 title: "Build and Deploy Robot Code"
 meta_title: ""
 description: ""
-image: "/images/image-placeholder.png"
+image: "/images/robode.PNG"
 categories: ["Programming"]
 #author: "Muffin Man"
 # tags: ["nextjs", "tailwind"]
