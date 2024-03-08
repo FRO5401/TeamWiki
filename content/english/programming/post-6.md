@@ -20,7 +20,7 @@ Steps:
 |Plug that cords into the slots with the corresponding color (provide image)|The robot should be receiving power from the battery when the switch is pushed in.|
 
 **Obtain a Functional Driver Station**\
-Description: In order to run robot code and control the robot, you need a Driver Station(Computer with the Driver Station software)\
+Description: In order to run robot code and control the robot, you need a Driver Station (Computer with the Driver Station software)\
 Pre-condition: Obtain a computer (It can be your own or a random one from robotics).
 
 Steps:
@@ -36,8 +36,8 @@ Steps:
 **Provide a Functional Radio for the Robot**\
 Description: The robot needs a functioning radio to connect to a Driver Station.\
 Pre-condition:
-- Obtain a Functional Driver Station
-- Get a new radio from the Pit
+- Obtain a Functional Driver Station.
+- Get a new radio from the Pit.
 
 Steps:
 | Step & Direction      | Expected Result   
@@ -57,8 +57,8 @@ Steps:
 **Image the RoboRIO of the Robot**\
 Description: Image the roboRIO with the latest software\
 Pre-condition:
-- Put a Battery in the Robot
-- Obtain a Functional Driver Station
+- Put a Battery in the Robot.
+- Obtain a Functional Driver Station.
 
 Steps:
 | Step & Direction      | Expected Result   
@@ -78,19 +78,19 @@ Steps:
 **Start the Robot**\
 Description: The robot needs to be turned on to test code.
 Pre-condition:
-- Put a Battery in the Robot
-- (The robot can’t be broken or incomplete)
+- Put a Battery in the Robot.
+- (The robot can’t be broken or incomplete).
 
 Steps: IN NEED OF PICTURES.
 
 **Receiving Communication**\
 Description: Get communication between the robot and the laptop through the radio.\
 Pre-condition:
-- Start the Robot
-- Obtain a Functional Driver Station
-- Provide a Functional Radio for the Robot
-- Image the RoboRIO of the Robot
-- (You can plug in an ethernet cable to the radio instead if setting up a functional radio is not the preferred method)
+- Start the Robot.
+- Obtain a Functional Driver Station.
+- Provide a Functional Radio for the Robot.
+- Image the RoboRIO of the Robot.
+- (You can plug in an ethernet cable to the radio instead if setting up a functional radio is not the preferred method).
 
 Steps:
 | Step & Direction      | Expected Result   
@@ -103,7 +103,7 @@ Steps:
 
 **Plugging in a Controller**\
 Description: Plug in a controller to control the robot with the Driver Station\
-Pre-condition: Obtain a Functional Driver Station
+Pre-condition: Obtain a Functional Driver Station.
 
 Steps:
 | Step & Direction      | Expected Result   
@@ -115,9 +115,9 @@ Steps:
 **Deploying Robot Code**\
 Description: Deploy the robot code to test it.\
 Pre-condition:
-- Obtain a Functional Driver Station
-- Start the Robot
-- Getting Comms
+- Obtain a Functional Driver Station.
+- Start the Robot.
+- Getting Comms.
 
 Steps:
 | Step & Direction      | Expected Result   
@@ -128,3 +128,62 @@ Steps:
 |(Only if you need to use Github) Click code then Download ZIP.|The repository should be downloaded.|
 |Get rid of all errors.|You should see the Driver Station interface.|
 |Open the FRC Driver Station software.|You should see the Driver Station interface.|
+|Build the Robot Code.|The build should be successful.|
+|Deploy the Robot Code.|The robot code light on the Driver Station should turn green.|
+
+**Test the TeleOp Controls**\
+Make a controller map to signify which buttons should be tested.\
+Description: Input joystick controls to test the set values and commands\
+Pre-condition:
+- Start the Robot.
+- Obtain a Functional Driver Station.
+- Getting Comms.
+- Plugging in a Controller.
+- Deploying Robot Code.
+- Ensure the controller map (to signify which buttons should be tested) is created.
+
+Steps:
+| Step & Direction      | Expected Result   
+|--------------|-----------|
+|Push forward and back in any order.|Robot moves forward/backward at expected speed.|
+|Push forward/back and push right or left on the other joystick.|Robot turns in the expected order and at the set speed.|
+|Press the buttons that are bounded to TeleOp commands.|All TeleOp commands execute successfully.|
+
+Here is an example of the driver controls that would need to be tested.\
+JARED PUT AN IMAGE HERE!!!
+
+Here is an example of the operator controls on a robot with an arm and a claw that would need to be tested.\
+JARED PUT AN IMAGE HERE!!!
+
+**Test an Auto**\
+Description: Test if an autonomous command functions on the robot.\
+Pre-condition:
+- Start the Robot.
+- Obtain a Functional Driver Station.
+- Getting Comms.
+- Plugging in a Controller.
+- Deploying Robot Code.
+
+Steps:
+| Step & Direction      | Expected Result   
+|--------------|-----------|
+|Switch the mode to Autonomous.|The robot should start performing the auto when you enable it.|
+|Enable the robot.|The lights should turn on and the auto should start.|
+
+**Test the Claw**\
+Description: If the robot has a claw, this is how you test it with code.\
+Pre-condition:
+- Start the Robot.
+- Obtain a Functional Driver Station.
+- Getting Comms.
+- Plugging in a Controller.
+- Deploying Robot Code.
+
+Steps:
+| Step & Direction      | Expected Result   
+|--------------|-----------|
+|The robot code has to be in TeleOp mode.|The orange light should blink and the side lights should turn on.|
+|Use the joysticks to move the claw to the game piece.|The robot should be in a position to pick up the game piece.|
+|Press the button to extend the claw.|The robot should extend the claw and grab the game piece.|
+|Use the joysticks to move the claw to the desired scoring area.|The robot should be in front of the desired scoring area.|
+|Press the button to extend the claw and release the game piece.|The game piece should be scored.|
