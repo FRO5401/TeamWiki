@@ -2,7 +2,7 @@
 title: "Test Case Development"
 meta_title: ""
 description: ""
-image: "/images/image-placeholder.png"
+image: "/images/testcasedev.PNG"
 categories: ["Programming"]
 #author: "Muffin Man"
 # tags: ["nextjs", "tailwind"]

@@ -2,7 +2,8 @@
 # Banner
 banner:
   title: "The Fightin' Robotic Owls' Wikipedia"
-  image: "images/teamspirit.JPG"
+  #image: "images/teamspirit.JPG"
+  image: "images/banner.JPG"
   button:
     enable: true
     label: "Browse around our Team 5401 website"

@@ -2,7 +2,7 @@
 title: "Github 101"
 meta_title: ""
 description: ""
-image: "/images/image-placeholder.png"
+image: "/images/gifty-gour01.PNG"
 categories: ["Programming"]
 #author: "Muffin Man"
 # tags: ["nextjs", "tailwind"]
