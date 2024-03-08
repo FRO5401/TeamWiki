@@ -39,6 +39,11 @@
       "name": "youtube",
       "icon": "fab fa-youtube",
       "link": "https://www.youtube.com/channel/UClc0fZNUC2I38TtQNPhoArw"
+    },
+    {
+      "name": "?",
+      "icon": "fa fa-question-circle",
+      "link": "https://youtu.be/NIpvEwZ9BDs?si=Ka53vdOE_x6llSuN"
     }
   ]
 }
