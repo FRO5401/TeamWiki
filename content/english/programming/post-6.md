@@ -14,8 +14,8 @@ Pre-condition: Obtain a charged battery from the Pit.
 
 Steps:
 | Step & Direction      | Expected Result   
-|--------------|-----------|
-|Bring the battery close to the robot.|The battery should be in a position where you can easily place it where it needs to go.|
+|--------------------------------------|---------------------------------|
+|Bring the battery close to the robot. | The battery should be in a position where you can easily place it where it needs to go.|
 |Put the battery in the correct place (provide image)|The battery should fit into the slot and the cords should be close enough to be plugged in.|
 |Plug that cords into the slots with the corresponding color (provide image)|The robot should be receiving power from the battery when the switch is pushed in.|
 
@@ -61,7 +61,7 @@ Pre-condition:
 - Obtain a Functional Driver Station.
 
 Steps:
-| Step & Direction      | Expected Result   
+| Step & Direction | Expected Result   
 |--------------|-----------|
 |Get a USB Type A male to Type B male cable from the Pit.|You should have the cable.|
 |Connect a USB cable from the roboRIO USB Device port to the Driver Station.|The RoboRIO and Driver Station should be connected.|
@@ -75,13 +75,16 @@ Steps:
 |Select the latest image version in the box.|The latest version should be selected.|
 |Click Reformat to begin the imaging process.|The progress bar should go up until it is complete.|
 
-**Start the Robot**\
+**Start the Robot**
 Description: The robot needs to be turned on to test code.
 Pre-condition:
 - Put a Battery in the Robot.
 - (The robot can’t be broken or incomplete).
 
 Steps: IN NEED OF PICTURES.
+|Step & Description      |Expected Result       |
+|------------------------|----------------------|
+|Push the ON switch in   |The lights on the robot turn on|
 
 **Receiving Communication**\
 Description: Get communication between the robot and the laptop through the radio.\
