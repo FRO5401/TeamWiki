@@ -4,8 +4,17 @@
     {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-6 w-full rounded") }}
   {{ end }}
   <h4 class="mb-3">
-    <a href="{{ .RelPermalink }}">
+    
+    {{ if eq .Title "Wiring Standards Guide"}}
+      <a href="https://docs.google.com/document/d/1MMJNG4ov8Jm6QuxrWr6CTGRPiAC9WTwaJ4OW3hMKVWg/edit" target="_blank">
+    {{ else if eq .Title "The Ultimate Guide to Fabrication"}}
+      <a href="https://docs.google.com/document/d/1Oy_3QWOhqsYMvq1s7rDYQ2UQBlAW6qrXPpb4xCdHqiE/edit#heading=h.50u220oorhb5" target="_blank">
+    {{ else }}
+      <a href="{{ .RelPermalink }}">
+    {{ end }}
       {{ .Title }}
+        </a>
+      </a>
     </a>
   </h4>
   {{ $categories:= .Params.categories }}

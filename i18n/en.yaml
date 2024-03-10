@@ -1,9 +1,6 @@
 - id: home
   translation: Home
 
-- id: read_more
-  translation: Read More
-
 - id: send
   translation: Send
 
