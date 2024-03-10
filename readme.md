@@ -1,6 +1,6 @@
 <h1 align="center">Team 5401 Team Wiki</h1> 
 
-<p align="center">Made with ♥ by <a href="https://zeon.studio/"> Zeon Studio</a> & Lain & Jarred</p>
+<p align="center">Made with ♥ by <a href="https://zeon.studio/"> Zeon Studio</a> & Lain & Jared</p>
 
 
 ### 📦 Tech Stack

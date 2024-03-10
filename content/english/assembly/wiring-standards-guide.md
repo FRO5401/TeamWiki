@@ -2,7 +2,7 @@
 title: "Wiring Standards Guide"
 meta_title: ""
 description: ""
-image: "/images/image-placeholder.png"
+image: "/images/wiring-guide.png"
 categories: ["Assembly"]
 # tags: ["nextjs", "tailwind"]
 draft: false
