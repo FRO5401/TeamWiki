@@ -4,8 +4,6 @@ meta_title: ""
 description: ""
 image: "/images/gifty-gour01.PNG"
 categories: ["Programming"]
-#author: "Muffin Man"
-# tags: ["nextjs", "tailwind"]
 draft: false
 ---
 

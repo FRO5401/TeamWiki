@@ -4,8 +4,6 @@ meta_title: ""
 description: ""
 image: "/images/helpme.PNG"
 categories: ["Programming"]
-#author: "Muffin Man"
-# tags: ["nextjs", "tailwind"]
 draft: false
 ---
 If you have a question but don’t know who to ask, consult this table. If what you’re looking for is not listed, please consult DUFFY & Jimmy.

@@ -4,8 +4,6 @@ meta_title: ""
 description: ""
 image: "/images/namtions.PNG"
 categories: ["Programming"]
-#author: "Muffin Man"
-# tags: ["nextjs", "tailwind"]
 draft: false
 ---
 

@@ -4,8 +4,6 @@ meta_title: ""
 description: ""
 image: "/images/prosources.PNG"
 categories: ["Programming"]
-#author: "Muffin Man"
-# tags: ["nextjs", "tailwind"]
 draft: false
 ---
 

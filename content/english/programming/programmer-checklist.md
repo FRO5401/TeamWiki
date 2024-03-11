@@ -4,8 +4,6 @@ meta_title: ""
 description: ""
 image: "/images/frogramlist.PNG"
 categories: ["Programming"]
-#author: "Muffin Man"
-# tags: ["nextjs", "tailwind"]
 draft: false
 ---
 **These are essentials that all programmers need for robotics.**\

@@ -4,8 +4,6 @@ meta_title: ""
 description: ""
 image: "/images/testcasedev.PNG"
 categories: ["Programming"]
-#author: "Muffin Man"
-# tags: ["nextjs", "tailwind"]
 draft: false
 ---
 **Put a Battery in the Robot**\
