@@ -49,7 +49,6 @@ primary_color = "#121212"
 include_sections = ["assembly", "business", "cad", "manufactuing", "programming"]
 show_image = true
 show_description = true
-show_tags = true
 show_categories = true
 
 
@@ -82,7 +81,6 @@ button = "I Accept"
 ######################## sidebar widgets #########################
 [widgets]
 sidebar = ["categories"]
-
 
 # google map
 [google_map]
