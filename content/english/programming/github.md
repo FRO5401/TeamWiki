@@ -20,10 +20,10 @@ For a full tutorial of git please use the following resources:
 
 **Initialize a new Repo**\
 You probably will not need to do this often for robotics but if you ever need to start a new project you’d like in git do the following.
-|Terminal: |
-|---------|
-|git init|
-|git commit -m “initial commit”|
+```
+git init
+git commit -m “initial commit”
+```
 
 **Clone Repo**\
 Cloning a repo means, as the name suggests, get a local copy of a repository that is in git. You can do this to brand new repository or an established one. Here Is an example to clone the 2023 First Powerup Repo.
@@ -35,13 +35,17 @@ Cloning a repo means, as the name suggests, get a local copy of a repository tha
 5. Select the big green Code button, then make sure that the HTTPS button is selected, & finally, click the copy button next to url
 6. Open your terminal, can cd to the folder you want to clone the repo to. For example, if I wanted to cd to the Documents folder. If you want to go to a folder inside of the documents called Programming, use the second command.
 
-|**cd Documents** or **cd Documents \ Programming**|
-|-----|
+```
+cd Documents 
+or 
+cd Documents \ Programming
+```
 
 7. Lastly, run the following command, but instead of pasting in "\<link to repo\>," paste the link you copied from GitHub.
 
-|git clone \<link to repo\> |
-|---------|
+```
+git clone \<link to repo\>
+```
 
 **Committing Code**\
 Committing means taking code that you have written & sending them to the parent repository. Commits can be small, like fixing a typo in a comment, or large, such as an entire sub-system for the robot (not preferred). A question you may be asking is, “When should I commit?”, and that is a tricky question.
@@ -50,9 +54,11 @@ There is no standard answer but there is a motto that says to commit “early & 
 - Creating the new Java file with boilerplate
 - Accessing drive-base & sensor classes
 - Calling the autonomous from main code
+```
+|git commit -m “\<some message here\>” 
+```
 
-|git commit -m “\<some message here\>” |
-|-----|
+
 
 Your commit messages should be specific to what was done & be a sentence @ max & minimum. Examples messages:
 - “Created new autonomous file”
@@ -62,20 +68,20 @@ Your commit messages should be specific to what was done & be a sentence @ max &
 **Pushing / Pulling code**\
 Pushing code means taking committed code from your local machine to the remote branch. Pulling code does the opposite, it takes code that is in the remote branch to your master branch. If your code locally doesn’t match up with the remote branch there may be merge conflicts that require a rebase. If so, seek out the programming lead or mentor.
 
-|Terminal: |
-|----------|
-|git pull  |
-|git push  | 
+```
+git pull  
+git push   
+```
 
 **Creating / Checking out Branch**\
 A branch is the separate progression of code away from the main branch. Branches allow you to work on a new feature & test it with the full code base while it’s still in development. When you’re done with the feature, you will need to make a Pull Request to merge your branch into the master branch. To create a new branch off of master do the following:
 
-|Terminal: |
-|----------|
-|cd \<file path to repo\>|
-|git checkout master|
-|git pull|
-|git checkout -b ‘\<name of new branch\> |
+```
+cd \<file path to repo\>
+git checkout master
+git pull
+git checkout -b ‘\<name of new branch\> 
+```
 
 **Pull requests**\
 When your feature is done & ready to be tested & merged, a Pull Request needs to be created from GitHub.
