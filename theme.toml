@@ -6,20 +6,6 @@ homepage = "https://github.com/zeon-studio/hugoplate"
 demosite = "https://zeon.studio/preview?project=hugoplate"
 min_version = "0.121.2"
 
-tags = [
-  "blog",
-  "responsive",
-  "minimal",
-  "personal",
-  "light",
-  "dark",
-  "multilingual",
-  "landing",
-  "contact",
-  "dark mode",
-  "tailwindcss",
-]
-
 features = [
   "Multi-Authors",
   "Search",

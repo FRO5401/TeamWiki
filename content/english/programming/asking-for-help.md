@@ -16,9 +16,9 @@ React	                    |Jimmy, Google
 WPI Library           	    |Ace, Kingsley, FIRST, Google
 Robot Code	                |Kingsley, Ace
 App Dev	                    |Sophia, Ace
-Assembly	                |Keira, Kaitlyn, Mac, Kathy, Steve
-CADD	                    |Kevin, Pop, Steve
-Manufacturing	            |Rocky, Keira, Kaitlyn, Pop, Steve
-Business	                |Jenna, Katherine, Virginia
+Assembly	                |Keira, Kaitlyn, Kathy
+CAD 	                    |Kevin, Pop, James Chalmers
+Manufacturing	            |Rocky, Keira, Kaitlyn, Pop
+Business	                |Katherine, Virginia
 Safety	                    |Ethan, Kathy, Jimmy
 Drive Team	                |Gavin, Sophia, Justin, Thomas, Nishanth
