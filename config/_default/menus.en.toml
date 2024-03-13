@@ -31,6 +31,11 @@ name = "Programming"
 url = "programming/"
 weight = 6
 
+[[main]]
+name = "IT"
+url = "it/"
+weight = 7
+
 # footer menu
 [[footer]]
 name = "Assembly"
@@ -56,3 +61,8 @@ weight = 4
 name = "Programming"
 url = "programming/"
 weight = 5
+
+[[footer]]
+name = "IT"
+url = "it/"
+weight = 6
