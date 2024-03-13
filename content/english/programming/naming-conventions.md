@@ -17,9 +17,12 @@ For tank drive, we typically have 2 or 3 motors inside of the planetary gearbox.
 Non-Drivebase
 For non-drivebase motors, the location & function of them is important. We need to ensure that these names are concise but explain their purpose. Ex. openClawMotor, rotateArmMotor, leftArmRotateMotor, rightArmRotateMotor
 
-1. Includes Action 2. Includes Where it is
+|Info to include in variables|
+|----------------------------|
+|Includes Action             |
+|Includes Where it is        |
 
-Convention: Action_Location_Motor
+Convention: actionLocationMotor
 
 
 Cameras
@@ -29,6 +32,6 @@ Encoders
 For the most part, follow the same name as the motor the encoder is paired with and append Encoder to the end.
 
 
-PID Numbering Convention\
-JUnit Test naming convention\
-Else case
+- PID Numbering Convention
+- JUnit Test naming convention
+- Else case
