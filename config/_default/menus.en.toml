@@ -36,6 +36,26 @@ name = "IT"
 url = "it/"
 weight = 7
 
+[[main]]
+name = "Sub-Sub Teams"
+weight = 8
+hasChildren = true
+
+[[main]]
+parent = "Sub-Sub Teams"
+name = "Safety"
+url = "safety/"
+
+[[main]]
+parent = "Sub-Sub Teams"
+name = "Scouting"
+url = "scouting/"
+
+[[main]]
+parent = "Sub-Sub Teams"
+name = "CNC"
+url = "cnc/"
+
 # footer menu
 [[footer]]
 name = "Assembly"

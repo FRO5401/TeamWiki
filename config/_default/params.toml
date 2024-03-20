@@ -18,7 +18,7 @@ navbar_fixed = true
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
-mainSections = ["assembly", "business", "cad", "manufactuing", "programming"]
+mainSections = ["assembly", "business", "cad", "manufactuing", "programming", "it", "cnc", "safety", "scouting"]
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["assembly", "business", "cad", "manufactuing", "programming"]
+include_sections = ["assembly", "business", "cad", "manufactuing", "programming", "it", "cnc", "safety", "scouting"]
 show_image = true
 show_description = true
 show_categories = true
