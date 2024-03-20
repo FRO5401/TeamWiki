@@ -32,29 +32,29 @@ url = "programming/"
 weight = 6
 
 [[main]]
-name = "IT"
-url = "it/"
+name = "Other"
 weight = 7
-
-[[main]]
-name = "Sub-Sub Teams"
-weight = 8
 hasChildren = true
 
 [[main]]
-parent = "Sub-Sub Teams"
+parent = "Other"
 name = "Safety"
 url = "safety/"
 
 [[main]]
-parent = "Sub-Sub Teams"
+parent = "Other"
 name = "Scouting"
 url = "scouting/"
 
 [[main]]
-parent = "Sub-Sub Teams"
+parent = "Other"
 name = "CNC"
 url = "cnc/"
+
+[[main]]
+parent = "Other"
+name = "IT"
+url = "it/"
 
 # footer menu
 [[footer]]
@@ -81,8 +81,3 @@ weight = 4
 name = "Programming"
 url = "programming/"
 weight = 5
-
-[[footer]]
-name = "IT"
-url = "it/"
-weight = 6
