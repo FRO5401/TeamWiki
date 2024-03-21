@@ -2,7 +2,7 @@
 title: "Guide for Specific Tasks"
 meta_title: ""
 description: ""
-image: 
+image: "images/specificTasks.PNG"
 categories: ["Assembly"]
 draft: false
 ---

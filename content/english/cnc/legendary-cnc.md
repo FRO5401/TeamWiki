@@ -2,7 +2,7 @@
 title: "The Legendary CNC"
 meta_title: ""
 description: ""
-image: "/images/image-placeholder"
+image: "/images/legCNC.PNG"
 categories: ["CNC"]
 draft: false
 ---
