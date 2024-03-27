@@ -2,7 +2,7 @@
 title: "FRC Robot Basics"
 meta_title: ""
 description: ""
-image: "/images/delilahWiring.png"
+image: "/images/robotBasics.PNG"
 categories: ["Assembly"]
 draft: false
 ---
