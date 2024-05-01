@@ -56,16 +56,49 @@ To view the contents of files you can say ```cat <Path to file>```.  CAT can mer
 
 ## Basic Git Commits
 
+These commands are meant to replace your need for GitHub Desktop.  Hopefully you will find that this is way quicker than opening another application and clicking multiple buttons.  There are still other functions that you will need to use GitHub Desktop for, but these are your most common ones.
+
+### git status 
+This command will show you files in the repo that have been modified, added, or deleted.  Simply use ```git status``` in the the terminal.  Example output below:
+
+```bash
+    On branch Commandline-Basics
+    Your branch is up to date with 'origin/Commandline-Basics'.
+
+    Changes not staged for commit:
+    (use "git add <file>..." to update what will be committed)
+    (use "git restore <file>..." to discard changes in working directory)
+            modified:   content/english/programming/commandline_basics.md
+
+    no changes added to commit (use "git add" and/or "git commit -a")
+```
+
 ### git add
+This command will add a file or files to staged, allowing you to perform subsequent commands on those files.  Two examples are ```git add <path to a specific file>``` and ```git add .```, the first will add only 1 file where the other will add ALL files that have been changed/added/deleted
 
 ### git commit -m ""
+This command commits the files that were staged with ``git add`` with a message of your choice.  For the message itself, there are multiple conventions on what to say.  One example is called [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) and other is just adding a single sentence of what you did.  Example command would be ```git commit -m "feat: added commandline basics page"```
 
 ### git push
+This command _pushes_ commits or branches from your local machine to your remote branch(GitHub).  For pushing commits you can just say ```git push```.   For pushing a _**new**_ branch for the **FIRST** time, you can use ```git push --set-upstream origin <Name of Branch>```.
 
 ### git checkout
+Checkout allows you to change and create branches.  To switch to the ```main``` branch from any other, you can say ```git checkout main```.  To create a new branch based on the current one your on, which you can get from [git status](#git-status), you will say ```git checkout -b "<Name of NEW branch>"```
 
 ## Advanced: Using VIM to modify files
+VIM stands for "**V**isual **I**nstrument i**M**proved" which is a way to edit files from the terminal.  If you need to edit a single file, you can do you pretty easily with VIM.  It is recommended for you guys just getting started to use VS Code to edit multiple files.  It is encourage for you to experiment using VIM and get familiar with it.  There are other terminal editors such as nano and vi but Jimmy's personal recommendation is vim.
 
-### vim vs VS Code
+Here are some links to edit files:
+* [VIM Tutorial - (Text)](https://www.freecodecamp.org/news/vim-beginners-guide/)
+* [VIM Tutorial - (Video)](https://www.youtube.com/watch?v=-txKSRn0qeA)
+* [Nano Tutorial - (Text)](https://linuxhandbook.com/nano-editor-basics/)
+* [Nano Tutorial - (Video)](https://www.youtube.com/watch?v=gyKiDczLIZ4)
+* [VI Tutorial - (Text)](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/)
+* [VI Tutorial - (Video)](https://www.youtube.com/watch?v=-_DvfdgR-LA)
 
 ## Where to go from here
+
+* Git Rebase / Reset
+* Chmod
+* bash scripting
+* PowerShell
