@@ -29,7 +29,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      -steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
         
