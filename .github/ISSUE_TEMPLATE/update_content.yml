@@ -1,0 +1,53 @@
+name: Bugs & Enhancements
+description: Report any issues you encounter to make hugoplate even more efficient.
+
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: What type of change are you looking for?
+      multiple: false
+      options:
+        - Bug
+        - Enhancement / Change
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: What is the URL of the page you'd like changed
+      description: Only required if Bug or Enhancement
+      placeholder: https://fro5401.github.io/TeamWiki/
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-content
+    attributes:
+      label: What is the current content on the screen?
+      description: Only required if a bug or enhancement
+    validations:
+      required: true
+
+  - type: textarea
+    id: requested-content
+    attributes:
+      label: What is the requested content on the screen?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: How serious is this change?
+      multiple: false
+      options:
+        - Low
+        - Average
+        - High
+
+  - type: input
+    id: respondants-name
+    attributes:
+      label: What is your name?
