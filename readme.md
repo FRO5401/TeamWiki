@@ -2,6 +2,9 @@
 
 <p align="center">Made with ♥ by <a href="https://zeon.studio/"> Zeon Studio</a> & Lain & Jared</p>
 
+### Purpose
+
+This is a website that will host documentation for FIRST Robotics Team 5401.  Sub-teams such as Business, CADD, Programming, and even Scouting have their documentation pages that are searchable via the searchbar.
 
 ### 📦 Tech Stack
 
@@ -17,10 +20,6 @@
 - [Github Actions](https://github.com/features/actions)
 
 ---
-
-## 🚀 Getting Started [Update Links]
-
-First you need to [clone](https://github.com/zeon-studio/hugoplate) or [download](https://github.com/zeon-studio/hugoplate/archive/refs/heads/main.zip) the template repository, and then let's get started with the following process:
 
 ### ⚙️ Prerequisites
 
@@ -57,24 +56,6 @@ npm run dev
 ### 🎬 Still Confused? Watch a Quick Video
 
 https://github.com/zeon-studio/hugoplate/assets/58769763/c260c0ae-91be-42ce-b8db-aa7f11f777bd
-
----
-
-## 📝 Customization
-
-This template has been designed with a lot of customization options in mind. You can customize almost anything you want, including:
-
-### 👉 Site Config
-
-You can change the site title, base URL, language, theme, plugins, and more from the `hugo.toml` file.
-
-### 👉 Site Params
-
-You can customize all the parameters from the `config/_default/params.toml` file. This includes the logo, favicon, search, SEO metadata, and more.
-
-### 👉 Colors and Fonts
-
-You can change the colors and fonts from the `data/theme.json` file. This includes the primary color, secondary color, font family, and font size.
 
 ### 👉 Social Links
 
@@ -141,31 +122,9 @@ And if you want to Host some other hosting platforms. then you can build your pr
 
 ## 🔒 Guide to Staying Compliant
 
-### 🐞 Reporting Issues
-
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/zeon-studio/hugoplate/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/hugoplate/issues).
-
 ### 📝 License
 
 Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
 
 **Code License:** Released under the [MIT](https://github.com/zeon-studio/hugoplate/blob/main/LICENSE) license.
 
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
-
----
-
-## 🖼️ Showcase
-
-List of projects people are building with **Hugoplate**! Have you built a project with Hugoplate? Submit it by creating a pull request and we'll feature it here!
-
-| [![Open Neuromorphic](https://tinyurl.com/hp7avtje)](https://open-neuromorphic.org/) | [![AI Models](https://tinyurl.com/mu4p7dhb)](https://aimodels.org/) | [![Hugobricks](https://tinyurl.com/4x3uwhm9)](https://www.hugobricks.preview.usecue.com/) |
-|:---:|:---:|:---:|
-| **Open Neuromorphic** | **AI Models** | **Hugobricks** |
-
----
-
-## 💻 Need Customization?
-
-If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/estimate-project).
