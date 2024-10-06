@@ -2,7 +2,7 @@
 title: "Github 101"
 meta_title: ""
 description: ""
-image: "/images/gifty-gour01.PNG"
+image: "/images/gifty-gour01.png"
 categories: ["Programming"]
 draft: false
 ---

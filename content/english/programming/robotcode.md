@@ -2,7 +2,7 @@
 title: "Build and Deploy Robot Code"
 meta_title: ""
 description: ""
-image: "/images/robode.PNG"
+image: "/images/robode.png"
 categories: ["Programming"]
 draft: false
 ---

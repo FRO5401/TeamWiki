@@ -2,7 +2,7 @@
 title: "Test Case Development"
 meta_title: ""
 description: ""
-image: "/images/testcasedev.PNG"
+image: "/images/testcasedev.png"
 categories: ["Programming"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "New Programmer Checklist"
 meta_title: ""
 description: ""
-image: "/images/frogramlist.PNG"
+image: "/images/frogramlist.png"
 categories: ["Programming"]
 draft: false
 ---

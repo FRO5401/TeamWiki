@@ -2,7 +2,7 @@
 title: "New Laptop Setup"
 meta_title: ""
 description: ""
-image: "/images/settop.PNG"
+image: "/images/settop.png"
 categories: ["Programming"]
 draft: false
 ---

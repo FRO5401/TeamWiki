@@ -2,7 +2,7 @@
 title: "Naming Conventions"
 meta_title: ""
 description: ""
-image: "/images/namtions.PNG"
+image: "/images/namtions.png"
 categories: ["Programming"]
 draft: false
 ---

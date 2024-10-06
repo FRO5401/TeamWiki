@@ -2,7 +2,7 @@
 title: "Asking For Help"
 meta_title: ""
 description: ""
-image: "/images/helpme.PNG"
+image: "/images/helpme.png"
 categories: ["Programming"]
 draft: false
 ---

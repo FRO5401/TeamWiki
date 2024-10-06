@@ -2,7 +2,7 @@
 title: "General Programming Resources"
 meta_title: ""
 description: ""
-image: "/images/prosources.PNG"
+image: "/images/prosources.png"
 categories: ["Programming"]
 draft: false
 ---
