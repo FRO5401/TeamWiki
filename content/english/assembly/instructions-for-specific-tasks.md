@@ -1,5 +1,6 @@
 ---
 title: "Guide for Specific Tasks"
+link: ""
 meta_title: ""
 description: ""
 image: "images/specificTasks.png"
