@@ -19,7 +19,7 @@ App Dev	                    |Sophia, Ace
 Assembly	                |Justin, Kathy, Rosenberg
 CAD 	                    |Aymie, James Chalmers, Kaylee
 Manufacturing	            |Ethan, James
-Business	                |Katherine, Virginia, Naima, Aneri, Aryanna
+Business	                |Katherine, Virginia, Naima, Aneri
 Safety	                    |Ethan, Kathy, Jimmy
 Drive Team	                |Gavin, Sophia, Justin, Thomas
 Team Website                |Sophia, Tobi

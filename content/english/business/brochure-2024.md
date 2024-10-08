@@ -1,5 +1,6 @@
 ---
 title: "Brochure 2024"
+link: ""
 meta_title: ""
 description: ""
 image: "/images/BRO-SURE.png"
