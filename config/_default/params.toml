@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["assembly", "business", "cad", "manufactuing", "programming", "it", "cnc", "safety", "scouting"]
+include_sections = ["assembly", "business", "design", "manufactuing", "programming", "it", "cnc", "safety", "scouting"]
 show_image = true
 show_description = true
 show_categories = true

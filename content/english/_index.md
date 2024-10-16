@@ -17,7 +17,7 @@ features:
     bulletpoints:
       - "Assembly"
       - "Business"
-      - "CAD"
+      - "Design"
       - "Manufacturing"
       - "Programming"
     button:
